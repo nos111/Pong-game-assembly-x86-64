@@ -14,4 +14,4 @@
 <h1>&nbsp;</h1>
 <h1><span style="font-weight: 400;">Compile and run:</span></h1>
 <p><span style="font-weight: 400;">make test</span></p>
-<h1><br /><br /><br /><br /><br /><br /></h1>
+<h1><img src="https://github.com/nos111/Pong-game-assembly-x86-64/blob/master/screenshot.png?raw=true" alt="" width="640" height="400" /><br /><br /><br /><br /><br /><br /></h1>
